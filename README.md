@@ -3,7 +3,7 @@
 ## Links
 
 * [Syllabus](syllabus.md)
-* [Course Materials on Canvas](https://canvas.odu.edu/courses/161653/modules)
+* [Course Materials on Canvas](https://canvas.odu.edu/courses/187683)
 * [Lecture Slides](https://drive.google.com/drive/u/1/folders/15aiAezMGhnHdVwOO6qDqVyDn1JxHPd5o) (Google  Drive folder)
 
 ## Summary Schedule
