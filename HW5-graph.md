@@ -40,7 +40,7 @@ Compare the connected components of the Girvan-Newman split graph (Q2) with the 
 * Wayne Zachary, ["An Information Flow Model for Conflict and Fission in Small Groups"](https://www.journals.uchicago.edu/doi/abs/10.1086/jar.33.4.3629752?journalCode=jar), 1977 - original paper 
 * [Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary's_karate_club) (Wikipedia)
 * Data 
-   * matrix format: [UCINET IV Version 1.0 DATASETS](http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm#zachary)
+   <!-- * matrix format: [UCINET IV Version 1.0 DATASETS](http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm#zachary) -->
    * GML file: [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets)
    * [karate_club_graph()](https://networkx.org/documentation/stable/auto_examples/graph/plot_karate_club.html) in [NetworkX](https://networkx.org/documentation/stable/index.html)
 * Example code
