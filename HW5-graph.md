@@ -37,7 +37,7 @@ Compare the connected components of the Girvan-Newman split graph (Q2) with the 
 
 ### Useful Resources
 
-* Wayne Zachary, ["An Information Flow Model for Conflict and Fission in Small Groups"](http://aris.ss.uci.edu/~lin/76.pdf), 1977 - original paper 
+* Wayne Zachary, ["An Information Flow Model for Conflict and Fission in Small Groups"](https://www.journals.uchicago.edu/doi/abs/10.1086/jar.33.4.3629752?journalCode=jar), 1977 - original paper 
 * [Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary's_karate_club) (Wikipedia)
 * Data 
    * matrix format: [UCINET IV Version 1.0 DATASETS](http://vlado.fmf.uni-lj.si/pub/networks/data/Ucinet/UciData.htm#zachary)
